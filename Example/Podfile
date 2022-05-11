@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'ShawVerificationString_Example' do
+  pod 'ShawVerificationString', :path => '../'
+
+  target 'ShawVerificationString_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
