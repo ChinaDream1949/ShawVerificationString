@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ShawVerificationString'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = '一些正则校验，判断邮箱，手机号码，车牌号，身份证号，网址，账号，密码，ip，去掉html格式，工商税号等。'
 
 # This description is used to generate tags and improve search results.
